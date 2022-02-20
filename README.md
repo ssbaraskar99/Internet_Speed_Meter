@@ -17,7 +17,7 @@ This application is designed to show realtime downloads &amp; uploads speed in a
 - For Windows, please download setup file from Releases.
 
 # HOW TO USE
-- [Watch Demo](https://drive.google.com/file/d/1o4a8sG-R1QvY8wQpAvsLXCIftVFfUKhj/view?usp=sharing)
+- [Watch Demo]()
 
 - Open application, it will start to show current Downloaded & Uploaded bytes in realtime.
 - Below current Download speed, Total Downloaded data size is shown.
@@ -68,11 +68,11 @@ This application is designed to show realtime downloads &amp; uploads speed in a
 - License: Open Font License.You can use them freely in your products & projects - print or digital, commercial or otherwise.
 - [Github](https://github.com/sharanda/manrope)
 
-### **Chakra Petch**
+### **Bai Jamjuree**
 
 - Designer: Cadson Demak
 - License: Open Font License.You can use them freely in your products & projects - print or digital, commercial or otherwise.
-- [Github](https://github.com/cadsondemak/Chakra-Petch)
+- [Github](https://github.com/cadsondemak/Bai-Jamjuree)
 
 
 ### **ICONS :**
