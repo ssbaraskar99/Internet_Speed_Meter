@@ -13,6 +13,9 @@ This application is designed to show realtime downloads &amp; uploads speed in a
 ![](https://github.com/ssbaraskar99/Internet_Speed_Meter/blob/main/Screenshots/9.PNG?raw=true)
 ![](https://github.com/ssbaraskar99/Internet_Speed_Meter/blob/main/Screenshots/10.PNG?raw=true)
 
+![](https://github.com/ssbaraskar99/Internet_Speed_Meter/blob/main/Screenshots/InternetSpeedMeter.gif?raw=true)
+
+
 # HOW TO INSTALL
 - For Windows, please download setup file from Releases & unzip and double click on .exe
 - For Linux,  please download setup file from Releases & unzip and double click on ISMv1
